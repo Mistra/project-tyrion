@@ -1,0 +1,4 @@
+- improve both researching and movement searching algorithms (FROM based on 1 pixel manually adjusted and screenshots TO based on area research + auto-autoadjustment and possibly video/stream)
+- make bash and c++ code presentable and add more comments, possibly organize it in a object oriented base-class BOT system...
+- add a configuration file or similar
+- add a simple gtk/wxwidged or similar UI to make work simpler
